@@ -13,7 +13,7 @@
     -
       name: Configuring web page
       copy:
-        content: "<h1>This file has been created from a CI build of Jenkins using Ansible and changed => "Pravin Padhye" now</h1>"
+        content: "<h1>This file has been created from a CI build of Jenkins using Ansible and changed => 'Pravin Padhye' now</h1>"
         dest: /var/www/html/index.html
 
     - 
